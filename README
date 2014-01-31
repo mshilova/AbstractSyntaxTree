@@ -1,0 +1,9 @@
+Parsing input and building Abstract Syntax Tree. Top-down parsing, 
+semantic evaluator.
+
+run a simple test: 
+                    java SimpleP5Test
+
+run calculator that uses AST for evaluating expressions:
+
+                    java -jar Calculator.java Calculator
